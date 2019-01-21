@@ -3,7 +3,8 @@
 <p align="center">
   <img width="850" height="600" src="https://github.com/jongtaek-kim/Mutational_Signatures_in_Cancer_with_MuSiCa/blob/master/aux_files/mutationalsignaturematrix.png">
 </p>
-[Source](https://cancer.sanger.ac.uk/cosmic/signatures)
+
+#### [Image Source](https://cancer.sanger.ac.uk/cosmic/signatures)
 
 
 # MuSiCa - Mutational Signatures in Cancer
